@@ -1,5 +1,7 @@
 # Analyzing Employee’s Performance for HR Analytics
 
+Dataset - https://www.kaggle.com/datasets/sanjanchaudhari/employees-performance-for-hr-analytics
+
 ## Data Pre-processing:
 The analysis journey began with data preprocessing, where I meticulously cleaned the 'Uncleaned_employees_final_dataset'. Duplicate rows were eliminated, and irrelevant data types in numeric columns were filtered out using Python.
 
